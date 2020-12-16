@@ -1,4 +1,4 @@
-###  I am Shanmukh
+###  Hi there👋 I am Shanmukh
 - 👯 I’m looking to collaborate on IoT or cloud related stuff
 - 🤔 and i’m looking for help with the same
 - 📫 How to reach me: https://www.linkedin.com/in/saishanmukhm/
