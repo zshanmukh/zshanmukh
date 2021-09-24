@@ -2,7 +2,6 @@
 - 👯 I’m looking to collaborate on IoT or cloud related stuff
 - 🤔 and i’m looking for help with the same
 - 📫 How to reach me: https://www.linkedin.com/in/saishanmukhm/
-- ⚡ Fun fact:  Shutup I'm sleepy
 
 <!--
 **zshanmukh/zshanmukh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
